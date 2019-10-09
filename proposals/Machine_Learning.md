@@ -38,7 +38,11 @@ In this section, list what plans you have for this SIG. Describe each plan accor
 
 ## What are the expected outputs of the proposed SIG?
 <!--  help text goes here  -->
-* Increased knowledge in ML techniques in the center
-* Better awareness of current ML expertise in the center
-* Increased visibility in the scientific community
++ Increased visibility in the scientific community. This includes: 
+  - Participation in workshops, meetups, conferences.
+  - Blog posts covering techniques, trends, issues regarding ML/AI.
+  - ML training for researchers (e.g. workshop in January, as well as future workshops, courses, trainings we give). 
++ Increased knowledge in ML techniques in the center
++ Better awareness of current ML expertise in the center
+
 
